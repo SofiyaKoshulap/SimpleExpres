@@ -1,0 +1,26 @@
+{
+  "name": "team_m_9_server",
+  "version": "1.0.0",
+  "description": "Sprint09 Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ita-rom-s09-node/sprint-9-node-om-06-4-react-mykhaylo-team_m_9.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ita-rom-s09-node/sprint-9-node-om-06-4-react-mykhaylo-team_m_9/issues"
+  },
+  "homepage": "https://github.com/ita-rom-s09-node/sprint-9-node-om-06-4-react-mykhaylo-team_m_9#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
